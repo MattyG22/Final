@@ -293,8 +293,9 @@ nav ul li {
 .top-info .img-container img {
   position: relative;
   background: none;
-  width: 320px;
-  height: 320px;
+  width: 50%
+  height: 50%;
+  border-radius: 50px;
 }
 
 @media only screen and (max-width: 700px) {
