@@ -374,7 +374,8 @@ nav ul li {
     color: #FFFFFF;
 }
 
-#career {
+#career li {
+    display: list-item;
     list-style-type: disc;
     color: var(--secondary-color);
 }
